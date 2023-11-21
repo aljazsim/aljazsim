@@ -32,4 +32,4 @@
 
 ## Masterclases
 
-* [Docker Masterclass](https://github.com/aljazsim/docker-masterclass-examples)
+* [Docker Masterclass](https://github.com/aljazsim/docker-masterclass-examples) explaining the basics of Docker with sample applications running in containers and exercises
