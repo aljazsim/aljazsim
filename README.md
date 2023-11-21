@@ -16,7 +16,7 @@
 
 ### PowerShell
 
-* [Useful PowerShellScripts](https://github.com/aljazsim/powershell-scripts)
+* [Useful PowerShell Scripts](https://github.com/aljazsim/powershell-scripts)
 
 ## VS Code Extensions
 
