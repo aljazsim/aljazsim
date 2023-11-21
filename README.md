@@ -2,7 +2,7 @@
 
 ## Frameworks
 
-### DotNet
+### .Net
 
 * [TorrentClient library for .NET](https://github.com/aljazsim/torrent-client-for-net)
 * [Defensive programming framework for .NET](https://github.com/aljazsim/defensive-programming-framework-for-net), check it out on [NuGet](https://www.nuget.org/packages/DefensiveProgrammingFramework)
