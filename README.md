@@ -2,14 +2,14 @@
 
 ## Frameworks
 
-### .Net
+### .NET
 
 * [TorrentClient library for .NET](https://github.com/aljazsim/torrent-client-for-net)
 * [Defensive programming framework for .NET](https://github.com/aljazsim/defensive-programming-framework-for-net), check it out on [NuGet](https://www.nuget.org/packages/DefensiveProgrammingFramework)
 * [Validation Framework for .NET](https://github.com/aljazsim/validation-framework-for-net), check it out on [NuGet](https://www.nuget.org/packages/ValidationFramework)
 * [Transformation Framework for .NET](https://github.com/aljazsim/transformation-framework-for-net), check it out on [NuGet](https://www.nuget.org/packages/TransformationFramework)
 
-## TypeScript
+### TypeScript
 
 * [Validation Framework for TypeScript](https://github.com/aljazsim/validation-framework-for-typescript), check it out on [NPM](https://www.npmjs.com/package/validation-framework-ts)
 * [Defensive programming framework for TypeScript](https://github.com/aljazsim/defensive-programming-framework-for-typescript), check it out on [NPM](https://www.npmjs.com/package/defensive-programming-framework)
