@@ -28,7 +28,7 @@
 * [Vue.js Giphy Explorer](https://github.com/aljazsim/vue-giphy-explorer), a sample application written in Vue.js
 * [React Giphy Explorer](https://github.com/aljazsim/react-giphy-explorer), a sample application written in React
 * [Ionic Giphy Explorer](https://github.com/aljazsim/ionic-giphy-explorer), a sample application written in Ionic
-* [Flutter giphy Explorer](https://github.com/aljazsim/fultter-giphy-explorer), a sample application written in Flutter
+* [Flutter Giphy Explorer](https://github.com/aljazsim/fultter-giphy-explorer), a sample application written in Flutter
 
 ## Masterclases
 
